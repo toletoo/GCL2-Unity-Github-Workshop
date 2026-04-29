@@ -13,7 +13,6 @@ GameObject:
   - component: {fileID: 5593280213744462266}
   - component: {fileID: 4310333636750621484}
   - component: {fileID: 3948991912779047970}
-  - component: {fileID: 7165257841144488409}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -130,7 +129,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e16608cdfb8fcce48ae7405afb65eef5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveSpeed: 5
+  moveSpeed: 3
   jumpForce: 8
 --- !u!61 &3948991912779047970
 BoxCollider2D:
@@ -178,15 +177,3 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
---- !u!114 &7165257841144488409
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3452579342613972913}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0a1705e66a1de40399aa763274596f12, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
