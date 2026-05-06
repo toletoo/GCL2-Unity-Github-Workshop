@@ -149,7 +149,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   startingScore: 999
-  lives: 5
+  lives: 4
   gameSpeed: 1
 --- !u!4 &39797972
 Transform:
