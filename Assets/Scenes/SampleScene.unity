@@ -148,7 +148,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3f61d93ca28be0743bae261594299a19, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  startingScore: 999
+  startingScore: 0
   lives: 10
   gameSpeed: 1
 --- !u!4 &39797972
